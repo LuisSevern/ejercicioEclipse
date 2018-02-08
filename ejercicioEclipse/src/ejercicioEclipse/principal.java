@@ -7,5 +7,4 @@ public class principal {
 		System.out.println("¿Me has escuchado?");
 		System.out.println("Sí, Muy bien");
 	}
-
 }
